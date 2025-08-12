@@ -17,7 +17,7 @@ My journey covers both software (Python, C++, web design, data structures, OOP) 
 - 👨🏻‍💻 &nbsp; Most of my work is on [Github](https://github.com/YOUR-GITHUB)
 - 💬 &nbsp; Ask me about Python, C++, data structures, OOP, web technologies, or hardware projects
 - 🛠️ &nbsp; I built a SAP-1 (Simple As Possible Computer-1) as a personal project — Ask me about it!
-- 📫 &nbsp; Reach out on [LinkedIn]((https://www.linkedin.com/in/ali-ahmed-340896334/))
+- 📫 &nbsp; Reach out on [LinkedIn](https://www.linkedin.com/in/ali-ahmed-340896334/)
 - 📚 &nbsp; I enjoy reading tech blogs and watching sci-fi in my free time
 
 <br>
