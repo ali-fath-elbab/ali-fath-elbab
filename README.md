@@ -6,7 +6,7 @@
 <br>
 
 I’m a Computer Science student at Zewail City passionate about software, hardware, and problem solving! I love to learn about new technologies and apply them to real-world problems.  
-My journey covers both software (Python, C++, web design, data structures, OOP) and hardware (I’ve built a SAP-1 computer from scratch!).
+My journey covers both software (Python, C++, web design, data structures, OOP) and hardware by learning logic design , Computer archticture(I’ve built a SAP-1 computer from scratch!).
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" />
 
@@ -14,7 +14,7 @@ My journey covers both software (Python, C++, web design, data structures, OOP) 
 
 - 🔭 &nbsp; I’m currently learning advanced topics in computer science at Zewail City
 - 🤝 &nbsp; Looking to collaborate on open source or hardware/software integration projects!
-- 👨🏻‍💻 &nbsp; Most of my work is on [Github](https://github.com/YOUR-GITHUB)
+- 👨🏻‍💻 &nbsp; Most of my work is on [Github](https://github.com/ali-fath-elbab)
 - 💬 &nbsp; Ask me about Python, C++, data structures, OOP, web technologies, or hardware projects
 - 🛠️ &nbsp; I built a SAP-1 (Simple As Possible Computer-1) as a personal project — Ask me about it!
 - 📫 &nbsp; Reach out on [LinkedIn](https://www.linkedin.com/in/ali-ahmed-340896334/)
@@ -41,6 +41,3 @@ My journey covers both software (Python, C++, web design, data structures, OOP) 
 
 ### 🛠️ My Projects
 
-- **SAP-1 (Simple As Possible Computer-1):**<br>
-  My hardware project where I built an 8-bit computer inspired by classic computer architecture.  
-- *(Other open source projects here with brief descriptions...)*
